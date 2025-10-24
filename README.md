@@ -1,3 +1,34 @@
+# 🎓 EduCity – Educational Platform (Frontend)
+
+EduCity is a **modern and responsive educational website frontend** built using **React.js** and **Vite**.  
+It provides a clean and engaging user interface suitable for educational institutions, online learning platforms, or academic portfolios.
+
+---
+
+## 🚀 Features
+
+- ⚛️ Built with **React 19 + Vite** for high performance and fast development  
+- 🎨 Responsive and elegant UI using **CSS / Tailwind / Custom Styles**  
+- 📚 Dedicated sections for courses, about, contact, and testimonials  
+- 🧭 Smooth navigation and organized layout  
+- 🔥 Easy to extend and integrate with backend APIs  
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Description |
+|-------------|-------------|
+| **React.js** | Component-based UI framework |
+| **Vite** | Fast bundler and dev server |
+| **HTML5 & CSS3** | Structure and styling |
+| **ESLint** | Code quality and linting |
+| **Node.js (npm)** | Package management and scripts |
+
+---
+
+## 📁 Folder Structure
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
